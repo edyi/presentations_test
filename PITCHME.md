@@ -35,7 +35,7 @@ abcdefg
 ### タイトルA
 - AAA
 
----?code=index.html
+---?code=test.py
 - code
 
 ---
