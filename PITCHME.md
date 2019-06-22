@@ -36,10 +36,8 @@ abcdefg
 - AAA
 
 ---?code=index.html
-[@]4
+- code
 
-### タイトルB
-- BBB
-
+---
 
 
